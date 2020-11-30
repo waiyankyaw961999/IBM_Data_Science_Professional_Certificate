@@ -1,11 +1,11 @@
-![ViewCount](https://views.whatilearened.today/views/github/waiyankyaw961999/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/waiyankyaw961999/IBM-Data-Science-Professional-Certificate.svg?cache=remove)
 
 # IBM Data Science Professional Certificate
 
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/waiyankyaw961999/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
+ <img src="https://github.com/waiyankyaw961999/IBM_Data_Science_Professional_Certificate/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
 
 ## About this Professional Certificate
