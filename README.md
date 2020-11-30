@@ -1,9 +1,11 @@
+![ViewCount](https://views.whatilearened.today/views/github/waiyankyaw961999/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+
 # IBM Data Science Professional Certificate
 
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Waiyankyaw961999/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
+ <img src="https://raw.githubusercontent.com/waiyankyaw961999/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
 
 ## About this Professional Certificate
@@ -65,3 +67,27 @@ Read more below:
 - [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
 - [Foursquare API](https://developer.foursquare.com) : Foursquare API developer credentials portal.
 - [ArcGis](https://developers.arcgis.com/labs/python/search-for-an-address/) : Search for an address with Python.
+
+#### Useful Functions
+
+- [Check for NaN in Pandas DataFrame](https://datatofish.com/check-nan-pandas-dataframe/)
+- [Pandas get dummies or One Hot encoding](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
+- [Rename a column in Pandas in Python](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)
+- [Data cleaning with Pandas](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)	
+- [RStudio](https://cran.rstudio.com)
+- [RStudio package: Shiny](https://shiny.rstudio.com/)
+- [RStudio package: leaflet](https://rstudio.github.io/leaflet/)
+- [Importing JSON and HTML into pandas](https://www.datacamp.com/community/tutorials/importing-data-into-pandas)
+
+
+#### Useful Resources
+- [End to End Machine learning library](https://e2eml.school/blog.html#skills)
+- [Beginning with Exploratory data Analysis (EDA)](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
+- [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
+- [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)
+
+#### Building Portfolio and Real world Experience
+- [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
+- [Getting real life Data science experience](https://towardsdatascience.com/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12)
+- [How not to build a data science project](https://towardsdatascience.com/how-not-to-build-a-data-science-project-baa494d98da4)
+
